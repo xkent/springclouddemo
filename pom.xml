@@ -6,7 +6,7 @@
     <groupId>com.tony</groupId>
     <artifactId>clouddemo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>jar</packaging>
+    <packaging>pom</packaging>
 
     <name>clouddemo</name>
     <description>Demo project for Spring Boot</description>
@@ -14,6 +14,7 @@
         <module>eurekaserver</module>
         <module>clientdemo</module>
         <module>servicedemo</module>
+        <module>servicedemo2</module>
         <module>zuuldemo</module>
 
     </modules>
